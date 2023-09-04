@@ -672,7 +672,7 @@ body {
     padding: 0 60px;
 }
 .about-section .about-title h1 {
-    color: var(--text-color);
+    color: red;
     font: var(--h1);
    
 }
